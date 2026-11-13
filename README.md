@@ -1,6 +1,6 @@
 # SE-MVF: Evaluation Results
 
-**Anonymized evaluation results for cross-view UAV localization**
+**Evaluation results for cross-view UAV localization**
 
 This repository accompanies the paper **“SE-MVF: A Self-Supervised End-to-End Monocular Visual Frontend for Generalizable Cross-View UAV Localization.”** It provides per-query localization results for **1,311 queries** across two evaluation settings, with five matching methods evaluated on each query.
 
